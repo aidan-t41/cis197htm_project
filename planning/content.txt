@@ -1,0 +1,47 @@
+*** Home page ***
+
+* Text Area 1 *
+Welcome to AnimalCompawndium! This is a simple, informative website based around animals that I have particular interest in. By clicking on the "Animals" dropdown in the navigation bar, you can visit each animal for which I have compiled information. If you love animals as much as I do, you can visit the "Sign Up" page to get notified whenever I update the site with more animals/information.
+
+* Text Area 2 *
+Source: redpandanetwork.org
+
+Red pandas can sleep for most of the day! They can spend about 17 hours sleeping and are generally nocturnal. A red panda's tail is anywhere from 12 to 20 inches long, and they use their tail as a blanket while they sleep to stay warm and comfortable. Like some types of bears, they also hibernate. Since they mainly eat bamboo, they don't have much energy to expend, and need to sleep for long periods of time during cold weather, to conserve energy.
+
+*** Dogs Page ***
+
+* Text Area 1 *
+Source: akc.org
+
+Did you know? The AKC (American Kennel Club) currently recognizes 200 dog breeds. The first breed recognized was the "Pointer" breed, in 1878. The most recently recognized breed was in 2022: The Russian Toy. Some notable breeds are the German Shepherd in 1908, the Shetland Sheepdog in 1911, and the Golden Retriever in 1925. One of my personal favorites, the Pembroke Welsh Corgi, was recognized in 1934.
+
+* Text Area 2 *
+Source: akc.org
+
+Cats and Dogs. Cats and dogs can, generally, live together and get along with eachother. According to the AKC, some breeds are more amicable around cats, such as the Bull-dog, due to not being sporting dogs. Sporting dogs may act on instinct and chase a cat. Additionally, large dog breeds, generally speaking, are not the best to pair with a cat because of their hunting instincts. However, these are general points and do not apply to every dog and every circumstance. It is recommended to introduce your dog to a cat while it is a puppy, and to talk to a breeder beforehand.
+
+* Table *
+Source: wikipedia.org
+
+Most popular dog breeds
+
+*** Blue Glaucus Page ***
+
+* Text Area 1 *
+Source: oceana.org
+
+Did you know? The Blue Glaucus (Glaucus Atlanticus), also known as the blue dragon or blue angel, is a tiny sea slug measuring no more than 3 cm long. It is mostly found in tropical and subtropical waters, floating around the surface, although it is occasionally found washed up on shore. Its light blue color helps it blend in with the water from above, and its dark blue on its underside help camoflage it from predators below. A group of these little nudibranches is called a "blue fleet".
+
+* Text Area 2 *
+Source: wikipedia.org
+
+Venomous Sting. Despite being about an inch long, these creatures can be extremely dangerous, and even deadly. On its own, the Blue Dragon is not venomous itself, but its diet changes that. These sea slugs feed on Portugese Man o' Wars, which have a very dangerous sting. They absorb the nematocysts into their own body, and reuse the needles against any predator dumb enough to come close. If you see one on the beach, be very careful.
+
+* Table *
+Source: wikipedia.org
+
+Documented locations of sightings
+
+*** Sign Up Page ***
+
+Form Inputs: Email, name, date of birth, questions, how did you find us, favorite animal
