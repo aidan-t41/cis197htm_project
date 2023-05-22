@@ -1,0 +1,134 @@
+<!-- Student Name: Aidan Taylor -->
+<!-- Course Title: CIS197HTM -->
+<!-- Term: Spring 2023 -->
+<!-- Description: Home page for personal project assignment -->
+
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>AnimalCompawndium</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    </head>
+    <body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg border-bottom">
+        <div class="container-fluid">
+        <a class="navbar-brand" href="../index.html"><img src="../images/HeCookaDaFood.png" alt="AnimalCompawndium icon"></a>
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="../index.html">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Animals</a>
+                    <ul class="dropdown-menu" id="dropdown">
+                        <li><a class="dropdown-item" href="../dogs.html">Dogs</a></li>
+                        <li><a class="dropdown-item" href="../blueglaucus.html">Blue Glaucus</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../signup.html">Sign Up</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    
+    <!-- Main content -->
+    <main class="container mb-5">
+
+        <div class="row mt-5">
+            <div class="col-md-8">
+                <h2 class="display-5">Did You Know?</h2>
+                <p class="lead">The AKC (American Kennel Club) currently recognizes 200 dog breeds. The first breed recognized was the "Pointer" breed, in 1878. The most recently recognized breed was in 2022: The Russian Toy. Some notable breeds are the German Shepherd in 1908, the Shetland Sheepdog in 1911, and the Golden Retriever in 1925. One of my personal favorites, the Pembroke Welsh Corgi, was recognized in 1934.</p>
+                <figcaption class="blockquote-footer">Info from <a href="https://www.akc.org/press-center/articles-resources/facts-and-stats/breeds-year-recognized/" target="_blank" class="link-secondary link-underline link-underline-opacity-0 fw-bold">American Kennel Club</a></figcaption>
+            </div>
+            <figure class="col-md-4">
+                <img src="images/WelshCorgi.jpg" alt="Welsh pembroke corgi" class="img-fluid rounded figure-img shadow-lg">
+                <figcaption class="figure-caption me-2 text-end">A corgi standing up (unsplash.com)</figcaption>
+            </figure>
+        </div>
+
+        <div class="text-success">
+            <hr class="my-5"></hr>
+        </div>
+
+        <div class="row">
+            <figure class="col-md-4">
+                <img src="images/CatAndDog.jpg" alt="A cat laying next to a dog" class="img-fluid rounded figure-img shadow-lg">
+                <figcaption class="figure-caption ms-2">A cat and dog laying down together (unsplash.com)</figcaption>
+            </figure>
+            <div class="col-md-8">
+                <h2 class="display-5">Cats and Dogs</h2>
+                <p class="lead">Cats and dogs can, generally, live together and get along with eachother. According to the AKC, some breeds are more amicable around cats, such as the Bull-dog, due to not being sporting dogs. Sporting dogs may act on instinct and chase a cat. Additionally, large dog breeds, generally speaking, are not the best to pair with a cat because of their hunting instincts. However, these are general points and do not apply to every dog and every circumstance. It is recommended to introduce your dog to a cat while it is a puppy, and to talk to a breeder beforehand.</p>
+                <figcaption class="blockquote-footer">Info from <a href="https://www.akc.org/press-center/articles-resources/facts-and-stats/cats-dogs-together/" target="_blank" class="link-secondary link-underline link-underline-opacity-0 fw-bold">American Kennel Club</a></figcaption>
+            </div>
+        </div>
+
+        <table class="table table-striped mt-5 caption-top table-sm">
+            <thead>
+                <caption class="text-center">Top 10 Most Popular Dog Breeds 2022 <a class="link-secondary link-underline link-underline-opacity-0 fw-bold" href="https://www.akc.org/expert-advice/dog-breeds/most-popular-dog-breeds-2022/" target="_blank">(American Kennel Club)</a></caption>
+                <tr class="border-bottom border-success-subtle border-3 border-top-0 border-end-0 border-start-0">
+                    <th>Rank</th>
+                    <th>Breed</th>
+                </tr>
+            </thead>
+            <tbody class="">
+                <tr>
+                    <td>1</td>
+                    <td>French Bulldog</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Labrador Retriever</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Golden Retriever</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>German Shepherd</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Poodle</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Bulldog</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Rottweiler</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Beagle</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Dachshund</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>German Shorthaired Pointer</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="text-center p-2 border-top">
+        <p>
+            &copy; 2023 Copyright: <a class="link-secondary link-underline link-underline-opacity-0 fw-bold" href="https://github.com/aidan-t41" target="_blank">aidan-t41</a>
+        </p>
+    </footer>
+
+    <!-- Bootstrap & Popper scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js" integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+    </body>
+</html>
