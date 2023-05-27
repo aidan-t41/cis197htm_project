@@ -2,8 +2,7 @@
 Student Name: Aidan Taylor
 Course Title: CIS197HTM
 Term: Spring 2023
-Description: CSS Reset file for personal project assignment
-Source: https://meyerweb.com/eric/tools/css/reset/
+Description: Custom CSS styling for personal project assignment
 */
 
 /* Comply with WebAIM contrast checks */
@@ -13,4 +12,14 @@ Source: https://meyerweb.com/eric/tools/css/reset/
 
 label {
     color: #B0B1BA;
+}
+
+/* Style rule for hero image */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, 0.5)), url(../images/Hero-cropped.jpg), no-repeat;
+    background-size: cover;
+    background-position: center center;
+    filter: grayscale(100%);
+    color: white;
+    height: 42rem;
 }
