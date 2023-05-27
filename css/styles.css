@@ -1,0 +1,16 @@
+/*
+Student Name: Aidan Taylor
+Course Title: CIS197HTM
+Term: Spring 2023
+Description: CSS Reset file for personal project assignment
+Source: https://meyerweb.com/eric/tools/css/reset/
+*/
+
+/* Comply with WebAIM contrast checks */
+.override-text-gray {
+    color: #B0B1BA;
+}
+
+label {
+    color: #B0B1BA;
+}
