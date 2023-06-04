@@ -23,3 +23,21 @@ label {
     color: white;
     height: 42rem;
 }
+
+/* Style rules for mobile viewport */
+@media (max-width: 479px) {
+
+    .mobile-hide {
+        display: none !important;
+    }
+
+}
+
+/* Style rules for tablet viewport */
+@media (max-width: 959px) {
+
+    .hero {
+        height: 14rem;
+    }
+
+}
